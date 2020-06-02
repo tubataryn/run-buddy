@@ -1,4 +1,4 @@
-# Run Buddy
+# Run Buddy, Inc
 
 ## Purpose
 A website that offers fitness training services.
@@ -12,3 +12,5 @@ https://tubatary.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Taryn Fanning
+
+### ©️2019 Run Buddy, Inc
