@@ -302,8 +302,12 @@ footer a {
     color: var(--primary-color);
     flex: 1;
 }
-.trainer img {
+.trainer-img {
     width: 100%;
+    min-height: 300px;
+    display: flex;
+    padding: 15px;
+    align-items: flex-end;
 }
 .trainer-bio {
     padding: 25px;
@@ -319,6 +323,18 @@ footer a {
 }
 .trainer-bio p {
     font-size: 17px;
+}
+.trainer-1 {
+    background-image: url("/assets/images/trainer-1.jpg");
+    background-size: cover;
+}
+.trainer-2 {
+    background-image: url("/images/trainer-2.jpg");
+    background-size: cover;
+}
+.trainer-3 {
+    background-image: url("/images/trainer-3.jpg");
+    background-size: cover;
 }
 
 .contact {
